@@ -26,7 +26,18 @@ Use XState with Temporal TypeScript SDK
 
 ---
 
-# What is XState?
+# State machines
+
+- Finite number of *states*
+- In exactly one state at a time
+- An *initial* state
+- Wait for inputs (*events*)
+- Events trigger *transitions* from one state to another one
+- Transitions are deterministic
+
+---
+
+# XState
 
 - https://xstate.js.org/docs/
 - Library to create state machines in JavaScript/TypeScript
