@@ -9,5 +9,8 @@
     "@slidev/cli": "^0.27.10",
     "@slidev/theme-apple-basic": "^0.20.0"
   },
-  "name": "temporal-electronic-signature-talk"
+  "name": "temporal-electronic-signature-talk",
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.0.8"
+  }
 }

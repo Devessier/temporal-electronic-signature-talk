@@ -46,3 +46,35 @@ Use XState with Temporal TypeScript SDK
 ## Examples
 
 - [Fetch machine](https://stately.ai/viz/7c0ec648-09d6-46fe-a912-fc0e46da5094)
+
+---
+
+# Code
+
+[Workflow code on Github](https://github.com/Devessier/temporal-electronic-signature/blob/main/packages/temporal/src/workflows/index.ts)
+
+---
+
+# Pros and cons of using XState with Temporal
+
+### Pros
+
+- Explicit behaviour
+- Visualization
+- Prevents impossible states and race conditions
+- Scale well
+
+### Cons
+
+- Learning curve
+- For now there is boilerplate
+
+---
+
+# Thank you!
+
+- <mdi-github /> [Devessier](https://github.com/Devessier)
+- <mdi-link /> [baptiste.devessier.fr](https://baptiste.devessier.fr)
+- <mdi-twitter /> [BDevessier](https://twitter.com/BDevessier)
+- Code: [github.com/Devessier/temporal-electronic-signature](https://github.com/Devessier/temporal-electronic-signature)
+- Slides: [temporal-electronic-signature-talk.netlify.app](https://temporal-electronic-signature-talk.netlify.app/1)
